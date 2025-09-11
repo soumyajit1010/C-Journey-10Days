@@ -9,17 +9,16 @@ I am documenting my progress **day by day**, along with practice programs.
 The course covers the following chapters:
 
 1. Installation + Setup  
-2. Variables, Data types + Input/Output  
-3. Instructions & Operators  
-4. Conditional Statements  
-5. Loop Control Statements  
-6. Functions & Recursion  
-7. Pointers  
-8. Arrays  
-9. Strings  
-10. Structures  
-11. File I/O  
-12. Dynamic Memory Allocation  
+2. Variables, Data types + Input/Outpu Instructions & Operators
+3. Conditional Statements  
+4. Loop Control Statements  
+5. Functions & Recursion  
+6. Pointers  
+7. Arrays  
+8. Strings  
+9. Structures  
+10. File I/O  
+11. Dynamic Memory Allocation  
 
 ---
 
