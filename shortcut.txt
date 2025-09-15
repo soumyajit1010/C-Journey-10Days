@@ -1,2 +1,3 @@
 multipleline commentout--> ctrl+k+c
 multipleline un-commentout--> ctrl+k+u
+duplicate a line--> Shift + Alt + ↓ (down) or Shift + Alt + ↑ (up)
