@@ -24,9 +24,9 @@ The course covers the following chapters:
 
 ## 📅 Daily Progress
 
-- **Day 1** → Installation + Setup, Variables, Data types, Input/Output ✅  
-- **Day 2** → Instructions & Operators ✅  
-- **Day 3** → Conditional Statements ⏳  
+- **Day 1** → Installation + Setup, Variables, Data types, Input/Output   
+- **Day 2** → Instructions & Operators  
+- **Day 3** → Conditional Statements  
 - **Day 4** → Loop Control Statements  
 - **Day 5** → Functions & Recursion  
 - **Day 6** → Pointers  
